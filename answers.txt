@@ -9,3 +9,7 @@ Answer: It could be applied to healthcare. For example, data science can be used
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging is a safe option and it preserved the entire repo history. Rebasing creates a linear history by moving the feature branch onto the tip of main.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to graduating.
